@@ -64,7 +64,7 @@ $config = [
 
     // 'index' holds the index file for every directory
     // Example URI: https://example.com
-    // Example index: 'index README'https://example.com
+    // Example index: 'index README'
     // Example exts: 'php md'
     // index will search for: index.php, index.md, README.php, README.md
     "index" => "index readme README", // Default index is 'index'
